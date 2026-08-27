@@ -1,6 +1,13 @@
-# MnC Los Santos — Resource Library
+### MNC License — Non-Distributable, Free-To-Edit, Attributed Use
 
-> © 2026 carrot / MnCLosSantos  
-> Licensed under **MNC_LICENSE_NDFTEAU** — free to use and modify for personal or server use.  
-> Redistribution, resale, or publishing modified versions as your own work is prohibited.
-https://github.com/MnCLosSantos/MNC_LICENSE_NDFTEAU/blob/main/LICENSE.md
+> © 2026 Stan Leigh / MnCLosSantos  
+> All rights reserved under the terms defined below.
+
+---
+
+## License Identifier
+
+`MNC_LICENSE_NDFTEAU`  
+**Non-Distributable, Free-To-Edit, Attributed Use**
+
+---
