@@ -1,10 +1,89 @@
 # MnC Los Santos — Resource Library
+### MNC License — Non-Distributable, Free-To-Edit, Attributed Use
 
 > © 2026 carrot / MnCLosSantos  
-> Licensed under **MNC_LICENSE_NDFTEAU** — free to use and modify for personal or server use.  
-> Redistribution, resale, or publishing modified versions as your own work is prohibited.
+> All rights reserved under the terms defined below.
 
 ---
+
+## License Identifier
+
+`MNC_LICENSE_NDFTEAU`  
+**Non-Distributable, Free-To-Edit, Attributed Use**
+
+---
+
+## Preamble
+
+This license governs the use, modification, and distribution of all resources published under the **MnC Los Santos** organisation (`MnCLosSantos`) on GitHub. These resources are developed for use within **Grand Theft Auto V** modification environments, specifically **FiveM** roleplay servers running the **QBCore** framework and related dependencies.
+
+This license is designed to allow individuals and server operators to freely use and adapt these resources for personal or server-side purposes, while protecting the original author's work from being redistributed, resold, or misrepresented.
+
+---
+
+## Permissions
+
+The following are expressly **permitted** under this license:
+
+- **Personal use** — You may use any resource covered by this license on your own machine or private environment without restriction.
+- **Server use** — You may deploy and run these resources on a FiveM roleplay server, whether public or private, without charge or attribution requirement to end users.
+- **Modification** — You may edit, extend, adapt, or integrate these resources into your own scripts and configurations to suit your server's needs.
+- **Internal sharing** — You may share modified versions within your own development team or server staff for the purposes of maintaining your server.
+
+---
+
+## Restrictions
+
+The following are expressly **prohibited** under this license:
+
+- **Redistribution** — You may not publish, upload, or otherwise distribute these resources (modified or unmodified) to any public platform, forum, repository, or file-sharing service without prior written consent from the original author.
+- **Resale** — You may not sell, lease, sublicense, or otherwise commercially exploit these resources or any derivative works based on them.
+- **Misrepresentation of authorship** — You may not claim original authorship of these resources or publish modified versions as your own independent work without clear attribution to the original author (`carrot / MnCLosSantos`).
+- **Rebranding for distribution** — You may not strip, alter, or obscure license headers, credits, or attribution notices and then distribute the resulting work.
+
+---
+
+## Attribution
+
+Where attribution is included in a resource (e.g. in file headers, `fxmanifest.lua`, or `README.md`), it must be preserved in any modified version that is shared internally. You are not required to display attribution to end users of your server.
+
+Suggested attribution format:
+
+```
+Originally developed by carrot / MnCLosSantos
+Licensed under MNC_LICENSE_NDFTEAU
+https://github.com/MnCLosSantos
+```
+
+---
+
+## Disclaimer of Warranty
+
+These resources are provided **"as is"**, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+The author makes no guarantees that any resource will function correctly across all server configurations, FiveM versions, or QBCore releases. Use at your own risk.
+
+---
+
+## Limitation of Liability
+
+In no event shall the author (`Stan Leigh / MnCLosSantos`) be liable for any direct, indirect, incidental, special, or consequential damages arising from the use or inability to use these resources, even if advised of the possibility of such damages. This includes but is not limited to server downtime and data loss.
+
+---
+
+## Governing Scope
+
+This license applies to all resources listed in the **MnC Los Santos Resource Library** table below, as well as any resources hosted under the `MnCLosSantos` GitHub organisation that reference this license by identifier (`MNC_LICENSE_NDFTEAU`).
+
+---
+
+## Contact & Permissions Requests
+
+For redistribution requests, commercial licensing enquiries, or any other use not covered by this license, contact the author directly via the MnCLosSantos GitHub organisation.
+
+---
+
+## Resource Library
 
 | Resource | Description |
 |---|---|
@@ -62,7 +141,7 @@
 | `mnc-repairpoints` | Repair point locations |
 | `mnc-respraypoints` | Respray point locations |
 | `mnc-safezones` | Safe zone system |
-| `mnc-takeatrip` | Take a trip-teleport system |
+| `mnc-takeatrip` | Take a trip/teleport system |
 | `mnc-cayo-pump` | Fuel pump on Cayo Perico |
 | `mnc-pdm-ymap` | Basic YMAP dealership with optional animated floor |
 | `mnc-vehicleplacer` | Static vehicle placement v1 |
@@ -84,3 +163,7 @@
 | `mnc-freecam-v1` | Cinematic freecam v1 |
 | `mnc-freecam-v2` | Cinematic freecam v2 |
 | `mnc-freecam-v3` | Cinematic freecam v3 |
+
+---
+
+*© 2026 carrot / MnCLosSantos — Licensed under MNC_LICENSE_NDFTEAU*
