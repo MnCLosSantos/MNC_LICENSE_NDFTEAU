@@ -46,7 +46,7 @@
 | `mnc-robnpc` | Rob NPC system |
 | `mnc-route68revive` | Revive script using the unused Route 68 dealership as a job |
 | `mnc-scrapnbins` | Scrap/bins job |
-| `mnc-towfinder` | Tow truck job finder |
+| `mnc-towfinder` | Tow vehicle finder |
 | `mnc-bcso-revive` | BCSO revive |
 | `mnc-adminmenu` | Admin/player management menu |
 | `mnc-givecar` | Give car to player command |
@@ -54,7 +54,7 @@
 | `mnc-itemluaspawner` | Item spawner via Lua |
 | `mnc-itemspawner` | Item spawner UI |
 | `mnc-carplay` | In-car music/CarPlay UI |
-| `mnc-ppod` | iPod/pPod in-car music player |
+| `mnc-ppod` | iPod/pPod music player |
 | `mnc-crutch` | Crutch/injury prop system |
 | `mnc-dogends` | Cigarette prop system |
 | `mnc-vapes` | Vape prop system |
@@ -62,11 +62,11 @@
 | `mnc-repairpoints` | Repair point locations |
 | `mnc-respraypoints` | Respray point locations |
 | `mnc-safezones` | Safe zone system |
-| `mnc-takeatrip` | Take a trip/teleport system |
+| `mnc-takeatrip` | Take a trip-teleport system |
 | `mnc-cayo-pump` | Fuel pump on Cayo Perico |
 | `mnc-pdm-ymap` | Basic YMAP dealership with optional animated floor |
 | `mnc-vehicleplacer` | Static vehicle placement v1 |
-| `mnc-vehicleplacer-v2` | Static vehicle placement v2 (YMAP hybrid) |
+| `mnc-vehicleplacer-v2` | Static vehicle placement v2 |
 | `mnc-scratchcards` | Scratch card gambling |
 | `mnc-tradingcards` | Trading card collectibles |
 | `mnc-forkliftfix` | Forklift fix |
@@ -83,4 +83,4 @@
 | `mnc-vehicle-image-storage-2` | Vehicle image storage 2 |
 | `mnc-freecam-v1` | Cinematic freecam v1 |
 | `mnc-freecam-v2` | Cinematic freecam v2 |
-| `mnc-freecam-v3` | Cinematic freecam v3 (SQL presets) |
+| `mnc-freecam-v3` | Cinematic freecam v3 |
