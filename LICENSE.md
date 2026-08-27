@@ -1,7 +1,7 @@
 # MnC Los Santos — Resource Library
 ### MNC License — Non-Distributable, Free-To-Edit, Attributed Use
 
-> © 2026 carrot / MnCLosSantos  
+> © 2026 Stan Leigh / MnCLosSantos  
 > All rights reserved under the terms defined below.
 
 ---
@@ -36,9 +36,9 @@ The following are expressly **permitted** under this license:
 
 The following are expressly **prohibited** under this license:
 
-- **Redistribution** — You may not publish, upload, or otherwise distribute these resources (modified or unmodified) to any public platform, forum, repository, or file-sharing service without prior written consent from the original author.
+- **Redistribution** — You may not publish, upload, or otherwise distribute these resources (modified or unmodified) to any public platform, forum, repository, or file-sharing service without prior written consent from the original author Stan Leigh.
 - **Resale** — You may not sell, lease, sublicense, or otherwise commercially exploit these resources or any derivative works based on them.
-- **Misrepresentation of authorship** — You may not claim original authorship of these resources or publish modified versions as your own independent work without clear attribution to the original author (`carrot / MnCLosSantos`).
+- **Misrepresentation of authorship** — You may not claim original authorship of these resources or publish modified versions as your own independent work without clear attribution to the original author (`Stan Leigh / MnCLosSantos`).
 - **Rebranding for distribution** — You may not strip, alter, or obscure license headers, credits, or attribution notices and then distribute the resulting work.
 
 ---
@@ -50,7 +50,7 @@ Where attribution is included in a resource (e.g. in file headers, `fxmanifest.l
 Suggested attribution format:
 
 ```
-Originally developed by carrot / MnCLosSantos
+Originally developed by Stan Leigh / MnCLosSantos
 Licensed under MNC_LICENSE_NDFTEAU
 https://github.com/MnCLosSantos
 ```
@@ -166,4 +166,4 @@ For redistribution requests, commercial licensing enquiries, or any other use no
 
 ---
 
-*© 2026 carrot / MnCLosSantos — Licensed under MNC_LICENSE_NDFTEAU*
+*© 2026 Stan Leigh / MnCLosSantos — Licensed under MNC_LICENSE_NDFTEAU*
