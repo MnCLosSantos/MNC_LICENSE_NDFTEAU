@@ -84,13 +84,3 @@
 | `mnc-freecam-v1` | Cinematic freecam v1 |
 | `mnc-freecam-v2` | Cinematic freecam v2 |
 | `mnc-freecam-v3` | Cinematic freecam v3 (SQL presets) |
-| `mnc-bostra-fameboy` | Bostra fameboy rework — arcades cost money, inventory images |
-| `mnc-gtao-chat-system` | GTA:O-style chat rework for QBCore |
-| `mnc-PSmultijob` | 8 new UI styles for ps-multijob |
-| `mnc-QBscoreboard` | 7 UI options for qb-scoreboard |
-| `mnc-QBgarages` | 18 UI options for qb-garages |
-| `mnc-QBclothing` | 4 new UIs for qb-clothing |
-| `mnc-LegacyFuel` | LegacyFuel with 4 UI options |
-| `mnc-QBmenu` | 11 UI options for qb-menu |
-| `mnc-qb-radio-animation-guide` | Guide/replacement for qb-radio + pma-voice animation |
-| `mnc-fivem-custom-traffic-guide` | Guide for adding custom traffic |
