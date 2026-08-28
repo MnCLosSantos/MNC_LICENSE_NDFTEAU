@@ -162,7 +162,8 @@ For redistribution requests, commercial licensing enquiries, or any other use no
 | `mnc-vehicle-image-storage-2` | Vehicle image storage 2 |
 | `mnc-freecam-v1` | Cinematic freecam v1 |
 | `mnc-freecam-v2` | Cinematic freecam v2 |
-| `mnc-freecam-v3` | Cinematic freecam v3 |
+| `mnc-freecam-v3` | Cinematic freecam v3 |mnc-voiceai-batcher
+| `mnc-voiceai-batcher` | AI Voice batch audio downloader |
 
 ---
 
