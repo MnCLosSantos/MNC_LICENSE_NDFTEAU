@@ -1041,7 +1041,7 @@ use these Resources.
 ```
 =======================================================================
   Copyright © 2026 carrot / MnCLosSantos · All Rights Reserved
-  MNC_LICENSE_NDFTEAU v1.0 · Effective 1 January 2026
+  MNC_LICENSE_NDFTEAU v1.0 · Effective 01/09/2026
   https://github.com/MnCLosSantos
 =======================================================================
 ```
