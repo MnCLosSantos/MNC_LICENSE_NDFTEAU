@@ -971,6 +971,7 @@ https://github.com/MnCLosSantos/mnc-mega-mod-dump
 | [`mnc-jobgarage`](https://github.com/MnCLosSantos/mnc-mega-mod-dump/tree/main/mnc-jobgarage) | Job-specific garage |
 | [`mnc-jobhud`](https://github.com/MnCLosSantos/mnc-mega-mod-dump/tree/main/mnc-jobhud) | Job HUD display |
 | [`mnc-payments`](https://github.com/MnCLosSantos/mnc-mega-mod-dump/tree/main/mnc-payments) | Job-based invoice/payments |
+| [`mnc-pinkslips`](https://github.com/MnCLosSantos/mnc-mega-mod-dump/tree/main/mnc-pinkslips) | Pinkslip racing / wagering system |
 | [`mnc-pricesheets`](https://github.com/MnCLosSantos/mnc-mega-mod-dump/tree/main/mnc-pricesheets) | Price sheet display |
 | [`mnc-robnpc`](https://github.com/MnCLosSantos/mnc-mega-mod-dump/tree/main/mnc-robnpc) | Rob NPC system |
 | [`mnc-route68revive`](https://github.com/MnCLosSantos/mnc-mega-mod-dump/tree/main/mnc-route68revive) | Revive script using the unused Route 68 dealership as a job |
@@ -1040,8 +1041,10 @@ use these Resources.
 
 ```
 =======================================================================
+
   Copyright © 2026 carrot / MnCLosSantos · All Rights Reserved
   MNC_LICENSE_NDFTEAU v1.0 · Effective 01/09/2026
   https://github.com/MnCLosSantos
+
 =======================================================================
 ```
